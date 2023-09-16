@@ -3,8 +3,8 @@ Introducing our innovative Restaurant Website, a dynamic platform crafted using 
 
 
 
-<img src = "image1.png">
-<img src = "image2.png">
+<img src = "images/image1.png">
+<img src = "images/image2.png">
 
 ## How To Use 
 
